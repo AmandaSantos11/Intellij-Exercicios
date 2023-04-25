@@ -1,0 +1,92 @@
+Vá até a cozinha
+Abra a despensa
+Pegue o pote de chocolate
+Vá até a mesa
+Coloque o pote de chocolate na mesa
+Volte para a despensa
+Pegue o pote de açúcar
+Vá até a mesa
+Coloque o pote de açúcar na mesa
+Volte para a despensa
+Pegue o pote de farinha
+Vá até a mesa
+Coloque o pote de farinha na mesa
+Volte para a despensa
+Pegue o pote de fermento
+Vá até a mesa
+Coloque o pote de fermento na mesa
+Feche a despensa
+Vá até a geladeira
+Abra a geladeira
+Pegue o leite
+Vá até a mesa
+Coloque o leite na mesa
+Volte na geladeira
+Pegue um ovo
+Feche a geladeira
+Vá até a mesa
+Coloque o ovo na mesa
+Vá até a gaveta
+Abra a gaveta
+Pegue uma colher de sopa
+Feche a gaveta
+Vá até a mesa
+Coloque a colher de sopa na mesa
+Vá até o armário
+Abra o armário
+Pegue uma caneca
+Fechar o armário
+Vá até a mesa
+Coloque a caneca na mesa
+Vá até o pote de chocolate
+Abra ele
+Vá até o pote de açúcar
+Abra ele
+Vá até o pote de farinha
+Abra ele
+Vá até o pote de fermento
+Abra ele
+Pegue a colher de sopa
+Coloque a colher de sopa dentro do pote de chocolate até encher
+Tire a colher de sopa de dentro do pote de chocolate
+Coloque a colher de sopa com o chocolate dentro da caneca
+Tire a colher de sopa de dentro da caneca
+Coloque a colher de sopa dentro do pote de açúcar até encher
+Tire a colher de sopa de dentro do pote de açúcar
+Coloque a colher de sopa com o açúcar dentro da caneca
+Tire a colher de sopa de dentro da caneca
+Coloque a colher de sopa dentro do pote de farinha até encher
+Tire a colher de sopa de dentro do pote de farinha
+Coloque a colher de sopa com o farinha dentro da caneca
+Tire a colher de sopa de dentro da caneca
+Coloque a colher de sopa dentro do pote de fermento até encher
+Tire a colher de sopa de dentro do pote de fermento
+Coloque a colher de sopa com o fermento dentro da caneca
+Tire a colher de sopa de dentro da caneca
+Pegue o ovo na mesa
+Quebre o ovo em cima da caneca com a colher de sopa
+Coloque a casca do ovo em cima da mesa
+Coloque a colher de sopa dentro da caneca
+Misture os ingredientes dentro da caneca com a colher de sopa
+Pegue o leite
+Despeje um pouco de leite dentro da caneca
+Coloque o leite na mesa
+Misture de novo os ingredientes dentro da caneca
+Tire a colher de sopa da caneca
+Coloque a colher de sopa na mesa
+Pegue a caneca
+Vá até o microondas
+Abra o microondas
+Coloque a caneca dentro do microondas
+Feche o microondas
+Pressione o botão de 4 minutos
+Esperar o tempo do microondas terminar
+Abra o microondas
+Pegue a caneca
+Feche o microondas
+Vá até a mesa
+Coloque a caneca na mesa
+Pegue a colher de sopa na mesa
+Coloque a colher de sopa dentro da caneca
+E coma o bolo da caneca
+Fim

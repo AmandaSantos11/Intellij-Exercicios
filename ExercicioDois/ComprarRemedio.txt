@@ -1,0 +1,52 @@
+Pegar sua carteira
+Abrir a carteira
+Verificar se tem dinheiro dentro
+Se tiver dinheiro
+Fechar a carteira
+Guardar a carteira dentro do bolso da blusa
+Ir até o porta-chaves
+Pegar sua chave de casa
+Ir até a porta principal da casa
+Inserir a chave na fechadura da porta
+Destrancar a porta
+Tirar a chave da fechadura
+Abrir a porta
+Sair de casa
+Fechar a porta
+Colocar a chave na fechadura
+Trancar a porta
+Tirar a chave da fechadura
+Guardar a chave dentro do bolso da blusa
+Vá até a farmácia do outro lado da rua
+Entre na farmácia
+Vá até o balcão de remédios
+Peça ao atendente para pegar o remédio de dor de cabeça e enjoo
+Espere o atendente pegar o remédio
+Pegue o remédio com o atendente
+Leva os remédios até o caixa da farmácia
+Dê os remédios para o atendente do caixa
+Espere o atendente falar o valor da compra
+Pegue a carteira no bolso da blusa
+Abra a carteira
+Pegue o dinheiro
+Feche a carteira
+Dê o dinheiro para o atendente do caixa
+Guarde a carteira de volta no bolso da blusa
+Pega a sacola com os remédios
+Atravesse a rua de novo e volte para casa
+Quando chegar na porta principal de casa
+Pegue a chave no bolso da blusa
+Coloque a chave na fechadura da porta
+Destranque a porta
+Tire a chave da fechadura
+Abra a porta
+Entre dentro de casa
+Feche a porta
+Coloque a chave na fechadura da porta
+Tranque a porta
+Tire a chave da fechadura da porta
+Vá até o porta-chaves
+Coloque a chave dentro do porta-chaves
+Vá até a cozinha
+Coloque a sacola dos remédios em cima da mesa
+Fim

@@ -1,0 +1,89 @@
+Ir para a cozinha
+Abrir a despensa
+Verificar se tem pó de café
+Se tiver o pó de café
+Pegar o pó de café
+Fechar a despensa
+Colocar o pó de café na mesa
+Ir até o armário
+Abrir o armário
+Pegar uma chaleira
+Fechar o armário
+Levar a chaleira até a pia
+Abrir a torneira da pia
+Encher a chaleira com água
+Fechar a torneira da pia
+Ir até o fogão
+Colocar a chaleira em cima do fogão
+Ligar o gás do fogão
+Acender a boca do fogão
+Esperar a água ferver
+Depois de fervida
+Desligar a boca do fogão
+Ir até o armário
+Pegar uma jarra
+Colocar na mesa
+Voltar para o armário
+Pegar o coador de pano
+Fechar o armário
+Ir até a mesa
+Colocar o coador de pano dentro da jarra
+Ir até uma gaveta
+Abrir a gaveta
+Pegar uma colher de sopa
+Colocar a colher de sopa na mesa
+Voltar para a gaveta
+Pegar uma tesoura
+Fechar a gaveta
+Ir até a mesa
+Pegar o pó de café
+Abrir o pó de café com a tesoura
+Colocar a tesoura na mesa
+Pegar a colher de sopa na mesa
+Colocar a colher de sopa dentro do pó de café até encher
+Colocar o pó de café na mesa
+Pegar a jarra com o coador de pano
+Colocar o pó de café que está na colher de sopa dentro do coador de pano
+Repetir o processo de pegar o pó de café com a colher de sopa e colocar dentro do coador de pano mais duas vezes
+Depois de repetir o processo
+Colocar a colher de sopa em cima da mesa
+Ir até o fogão
+Pegar a chaleira com a água fervida
+Ir até a mesa
+Despejar a água da chaleira dentro do coador de pano
+Quando o coador de pano encher de água
+Parar de despejar água
+Ir até o fogão
+Colocar a chaleira em cima do fogão
+Voltar para a mesa
+Tirar o coador de pano de dentro da jarra
+Levar o coador de pano até a pia
+Colocar o coador de pano dentro da pia
+Ir até o armário
+Abrir o armário
+Pegar o pote de açúcar
+Fechar o armário
+Ir até a mesa
+Colocar o pote de açúcar em cima da mesa
+Abrir o pote de açúcar
+Pegar a colher de sopa em cima da mesa
+Colocar a colher de sopa dentro do açúcar até encher
+Colocar a colher de sopa com açúcar dentro da jarra
+Misturar o açúcar dentro da jarra com a colher de sopa
+Levar a colher de sopa até a pia
+Colocar a colher de sopa dentro da pia
+Ir até o armário
+Abrir o armário
+Pegar uma caneca
+Fechar o armário
+Ir até a mesa
+Colocar a caneca em cima da mesa
+Pegar a jarra na mesa
+Despejar o conteúdo da jarra dentro da caneca até a caneca encher
+Colocar a jarra na mesa
+Pegar a caneca
+Levar a caneca até a boca
+Beber um gole do café
+Tirar a caneca de perto da boca
+Colocar a caneca em cima da mesa
+Fim
